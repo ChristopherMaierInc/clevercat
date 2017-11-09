@@ -105,7 +105,7 @@ Configuration - you will not have an ENV file as this has been ignored through G
 ------------------
 
 ## 9. Project Plan
-![This is the project Plan](app/assets/images/projectplan.png)
+![This is the project Plan](app/assets/images/project_plan.png)
 
 -------------------
 ## 10. Future Updates
